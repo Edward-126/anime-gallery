@@ -1,2 +1,2 @@
 # anime-gallery
- REACTJS Project to test props
+ ReactJS Project to test props
