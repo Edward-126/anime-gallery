@@ -1,0 +1,24 @@
+#hero {
+  height: 100vh;
+  background-image: url(../images/bgpic.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+
+.head-content {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  margin: 0.7rem;
+  line-height: normal;
+}
+
+.head-main {
+  font-size: 3rem;
+  font-weight: 700;
+}
+
+.head-sub {
+  font-size: 1.2rem;
+}

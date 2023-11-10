@@ -1,0 +1,16 @@
+.container-fluid {
+  padding: 0px;
+}
+
+.nav-logo {
+  width: 8rem;
+}
+
+a.nav-link.nav-item-nav {
+  font-size: 1.4rem;
+}
+
+a.nav-link.nav-item-nav1 {
+  font-size: 1.5rem;
+  font-weight: 600;
+}

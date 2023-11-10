@@ -1,0 +1,20 @@
+#slider {
+  min-height: 100vh;
+}
+
+.slider-cont {
+  padding-top: 2rem;
+}
+
+.card {
+  min-height: 410px;
+  text-align: left;
+}
+
+.card-img-top {
+  max-height: 300px;
+}
+
+.slider-head {
+  padding-bottom: 1rem;
+}
